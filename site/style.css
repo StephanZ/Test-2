@@ -1,0 +1,29 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #330000;
+}
+.style1 {
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: arial;
+}
+.style2 {
+	color: #867d76;
+	font-size: 10px;
+	font-family: arial;
+}
+.style3 {
+	color: #E50000;
+	font-size: 10px;
+	font-family: arial;
+}
+.style4 {
+	color: #DED5CE;
+	font-size: 10px;
+	font-family: arial;
+}
+#mu li {list-style:url(images/point_1.jpg); margin:0 0 0 0px}
+#mu a { font-family:tahoma; font-size:10px; color:#DED5CE}
